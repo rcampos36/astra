@@ -178,7 +178,7 @@
           <h3 class=" font-medium text-white mb-4 lg:text-3xl">Diseño Gráfico</h3>
           <p class=" font-medium text-white">Diseño Gráfico para web:</p>
           <p class=" mb-4 font-extralight text-white">
-            En nuestra filosofía de diseño gráfico, buscamos trascender lo estético para crear experiencias visuales que cuenten historias y generen impacto... </p> <!--Creemos en la fusión de la creatividad y la funcionalidad, donde cada elemento visual tiene un propósito claro. Valoramos la simplicidad elegante y la atención meticulosa a los detalles, ya que creemos que la verdadera belleza reside en la claridad y la coherencia.  
+            En nuestra filosofía de diseño gráfico, buscamos trascender lo estético para crear experiencias visuales que cuenten historias y generen impacto.... </p> <!--Creemos en la fusión de la creatividad y la funcionalidad, donde cada elemento visual tiene un propósito claro. Valoramos la simplicidad elegante y la atención meticulosa a los detalles, ya que creemos que la verdadera belleza reside en la claridad y la coherencia.  
           </p>
           <p class="mb-4 text-lg font-extralight text-white">
             Nuestro enfoque se basa en comprender profundamente la esencia de cada proyecto, desde la identidad de la marca hasta la narrativa visual, para luego traducir esa comprensión en diseños que no solo son visualmente atractivos, sino también estratégicos y significativos. En resumen, nuestra filosofía de diseño gráfico se centra en la creación de soluciones visuales impactantes y auténticas que no solo deleitan a los ojos, sino que también comunican mensajes poderosos y duraderos.
