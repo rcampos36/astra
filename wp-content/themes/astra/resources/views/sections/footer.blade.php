@@ -4,7 +4,7 @@
       <div class="container px-6 py-12 mx-auto">
           <div class="grid grid-cols-1 gap-10 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-3">
               <div class="sm:col-span-2">
-                  <h1 class="font-medium max-w-lg text-xl tracking-tight text-gray-800 xl:text-2xl dark:text-white font-barlow">Suscríbase a nuestro boletín para recibir actualizaciones.</h1>
+                  <h1 class="font-semibold max-w-lg text-xl tracking-tight text-gray-800 xl:text-2xl dark:text-white font-barlow">Suscríbase a nuestro boletín para recibir actualizaciones.</h1>
 
                   <div class="flex flex-col mx-auto mt-6 space-y-3 md:space-y-0 md:flex-row">
                       <input id="email" type="text" class="px-4 py-2 text-gray-700 bg-white border rounded-md dark:bg-gray-900 dark:text-gray-300 dark:border-gray-600 focus:border-blue-400 dark:focus:border-blue-300 focus:outline-none focus:ring focus:ring-opacity-40 focus:ring-blue-300 font-barlow w-80" placeholder="Email Address">
@@ -29,7 +29,7 @@
               </div>
 
               <div>
-                  <p class="font-medium text-gray-800 dark:text-white font-barlow">Enlace Rápido</p>
+                  <p class="font-semibold text-gray-800 dark:text-white font-barlow mb-4">Enlace Rápido</p>
 
                   @if (has_nav_menu('primary_navigation'))
                     <nav class="nav-primary" aria-label="{{ wp_get_nav_menu_name('primary_navigation') }}">

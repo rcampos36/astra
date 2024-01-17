@@ -58,6 +58,16 @@ a {
   }
 }
 
+.nav {
+  display: flex;
+  gap: 2rem;
+}
+
+footer .nav {
+  flex-direction: column;
+  gap: 0;
+}
+
 .nav .menu-item a {
   display: inline-block;
   font-size: 1.25rem;
@@ -66,7 +76,6 @@ a {
   padding: 0;
   position: relative;
   text-decoration: none;
-  text-transform: uppercase;
   font-family: 'Barlow', sans-serif;
 }
 
