@@ -20,6 +20,6 @@
         <h2 class="text-lg text-gray-300 font-extralight">PLAYA LAS FLORES, SAN MIGUEL</h2>
       </div>
     </div>
-    <img src="http://astra.test/wp-content/uploads/2024/01/milin-john-wufUIfJk6fM-unsplash-scaled.jpg" alt="">
+    <img src="<?php the_sub_field('featured_client_image'); ?>" alt="">
   </a>
 </section>
