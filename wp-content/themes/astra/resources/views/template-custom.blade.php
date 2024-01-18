@@ -1,3 +1,9 @@
+<?php
+    /**
+    * Template Name: Custom Template
+    */
+?>  
+
 {{--
   Template Name: Custom Template
 --}}
